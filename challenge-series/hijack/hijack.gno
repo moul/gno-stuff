@@ -1,6 +1,6 @@
 package cshijack
 
-import "gno.land/r/leon/v2/raffle"
+import "gno.land/r/gc24/raffle"
 
 func RegisterCode(code string) string {
 	return raffle.RegisterCode(code)

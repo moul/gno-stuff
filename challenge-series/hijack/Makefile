@@ -7,4 +7,4 @@ publish:
 	  -remote "https://rpc.gno.land:443" \
 	  moul \
 	  -pkgdir . \
-	  -pkgpath gno.land/r/manfred/v2/cshijack
+	  -pkgpath gno.land/r/manfred/v3/cshijack
